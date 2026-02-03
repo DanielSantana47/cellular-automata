@@ -45,4 +45,35 @@ A dinâmica do sistema é definida por quatro regras principais:
 
 ## Estrutura do Projeto
 
+traffic_automata/
+│
+├── simulation.py # Modelo do autômato celular
+├── visualization.py # Animação da simulação
+├── analysis.py # Geração de gráficos científicos
+├── main.py # Arquivo principal
+├── requirements.txt
+└── README.md
+
+## Instalação
+
+Clone o repositório:
+
+git clone https://github.com/SEU-USUARIO/traffic-automata.git
+
+---
+
+Entre na pasta do projeto:
+
+cd traffic-automata
+
+---
+
+Instale as dependências:
+
+pip install -r requirements.txt
+
+---
+Como Executar:
+
+python main.py
 
