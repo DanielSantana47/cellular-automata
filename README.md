@@ -1,6 +1,6 @@
-# 🚦 Simulação de Fluxo de Trânsito com Autômatos Celulares
+# Simulação de Fluxo de Trânsito com Autômatos Celulares
 
-## 📌 Descrição
+## Descrição
 
 Este projeto implementa uma simulação computacional do fluxo de veículos utilizando **Autômatos Celulares**, com base no modelo clássico de **Nagel-Schreckenberg**. O objetivo é analisar o comportamento do trânsito em uma via unidimensional por meio de regras locais simples que geram padrões emergentes complexos, como congestionamentos espontâneos.
 
@@ -8,7 +8,7 @@ O sistema permite visualizar o movimento dos veículos, além de coletar dados e
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Simular o fluxo de trânsito utilizando autômatos celulares
 - Analisar o impacto da densidade veicular no desempenho do sistema
@@ -20,7 +20,7 @@ O sistema permite visualizar o movimento dos veículos, além de coletar dados e
 
 ---
 
-## 🧠 Fundamentação Teórica
+## Fundamentação Teórica
 
 O modelo utilizado é baseado no modelo **Nagel-Schreckenberg**, amplamente empregado na modelagem de tráfego rodoviário. Ele representa a estrada como uma estrutura discreta composta por células que podem estar vazias ou ocupadas por veículos.
 
@@ -33,7 +33,7 @@ A dinâmica do sistema é definida por quatro regras principais:
 
 ---
 
-## 📊 Funcionalidades
+## Funcionalidades
 
 - ✔ Simulação visual do trânsito  
 - ✔ Coleta automática de dados estatísticos  
@@ -43,5 +43,6 @@ A dinâmica do sistema é definida por quatro regras principais:
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Estrutura do Projeto
+
 
